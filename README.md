@@ -1,1 +1,1 @@
-This is a simple fitness  website built with HTML, CSS,. It allows you to log your workouts, set goals, and track your progress. The website is easy to use and designed to help you stay motivated on your fitness journey. Feel free to explore the code and contribute to the project!
+Fitness Website
